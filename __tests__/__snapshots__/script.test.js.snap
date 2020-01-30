@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Person Test Should Match the Person Snapshot 1`] = `
+Person {
+  "dob": "16 12 1975",
+  "favoriteColor": "Green",
+  "firstName": "Gamaliel",
+  "formatDate": [Function],
+  "formatGender": [Function],
+  "formatMe": [Function],
+  "gender": "m",
+  "lastName": "James",
+  "middleInitial": "D",
+}
+`;
+
+exports[`Person Test Should Match the Person Snapshot 2`] = `
+Person {
+  "dob": "",
+  "favoriteColor": "",
+  "firstName": "",
+  "formatDate": [Function],
+  "formatGender": [Function],
+  "formatMe": [Function],
+  "gender": "",
+  "lastName": "",
+  "middleInitial": "",
+}
+`;
+
+exports[`Sort By Property Function Test Main Final Test Establish the Fixture Snapshot 1`] = `
+Array [
+  Object {
+    "dob": "3/6/1975",
+    "favoriteColor": "Red",
+    "firstName": "Anna",
+    "gender": "Female",
+    "lastName": "Kournikova",
+    "middleInitial": "F",
+  },
+  Object {
+    "dob": "2/4/1979",
+    "favoriteColor": "Green",
+    "firstName": "Martina",
+    "gender": "Female",
+    "lastName": "Hingis",
+    "middleInitial": "M",
+  },
+  Object {
+    "dob": "2/12/1973",
+    "favoriteColor": "Black",
+    "firstName": "Monica",
+    "gender": "Female",
+    "lastName": "Seles",
+    "middleInitial": "H",
+  },
+  Object {
+    "dob": "4/23/1967",
+    "favoriteColor": "Yellow",
+    "firstName": "Timothy",
+    "gender": "Male",
+    "lastName": "Bishop",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "7/12/1959",
+    "favoriteColor": "Pink",
+    "firstName": "Sue",
+    "gender": "Female",
+    "lastName": "Kelly",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "2/13/1943",
+    "favoriteColor": "Tan",
+    "firstName": "Neil",
+    "gender": "Male",
+    "lastName": "Abercrombie",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "3/3/1985",
+    "favoriteColor": "Red",
+    "firstName": "Steve",
+    "gender": "Male",
+    "lastName": "Smith",
+    "middleInitial": "D",
+  },
+  Object {
+    "dob": "6/3/1975",
+    "favoriteColor": "Green",
+    "firstName": "Radek",
+    "gender": "Male",
+    "lastName": "Bonk",
+    "middleInitial": "S",
+  },
+  Object {
+    "dob": "6/3/1975",
+    "favoriteColor": "Blue",
+    "firstName": "Francis",
+    "gender": "Male",
+    "lastName": "Bouillon",
+    "middleInitial": "G",
+  },
+]
+`;
+
+exports[`Sort By Property Function Test Main Final Test Establish the Fixture Snapshot 2`] = `
+Array [
+  Object {
+    "dob": "3/6/1975",
+    "favoriteColor": "Red",
+    "firstName": "Anna",
+    "gender": "Female",
+    "lastName": "Kournikova",
+    "middleInitial": "F",
+  },
+  Object {
+    "dob": "2/4/1979",
+    "favoriteColor": "Green",
+    "firstName": "Martina",
+    "gender": "Female",
+    "lastName": "Hingis",
+    "middleInitial": "M",
+  },
+  Object {
+    "dob": "2/12/1973",
+    "favoriteColor": "Black",
+    "firstName": "Monica",
+    "gender": "Female",
+    "lastName": "Seles",
+    "middleInitial": "H",
+  },
+  Object {
+    "dob": "2/13/1943",
+    "favoriteColor": "Tan",
+    "firstName": "Neil",
+    "gender": "Male",
+    "lastName": "Abercrombie",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "4/23/1967",
+    "favoriteColor": "Yellow",
+    "firstName": "Timothy",
+    "gender": "Male",
+    "lastName": "Bishop",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "7/12/1959",
+    "favoriteColor": "Pink",
+    "firstName": "Sue",
+    "gender": "Female",
+    "lastName": "Kelly",
+    "middleInitial": "",
+  },
+  Object {
+    "dob": "3/3/1985",
+    "favoriteColor": "Red",
+    "firstName": "Steve",
+    "gender": "Male",
+    "lastName": "Smith",
+    "middleInitial": "D",
+  },
+  Object {
+    "dob": "6/3/1975",
+    "favoriteColor": "Green",
+    "firstName": "Radek",
+    "gender": "Male",
+    "lastName": "Bonk",
+    "middleInitial": "S",
+  },
+  Object {
+    "dob": "6/3/1975",
+    "favoriteColor": "Blue",
+    "firstName": "Francis",
+    "gender": "Male",
+    "lastName": "Bouillon",
+    "middleInitial": "G",
+  },
+]
+`;
